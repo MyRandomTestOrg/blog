@@ -3,22 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/post/lorem/</loc>
+    <loc>https://myrandomtestorg.github.io/blog/post/lorem/</loc>
     <lastmod>2021-01-20T17:39:55+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://myrandomtestorg.github.io/blog/</loc>
     <lastmod>2021-01-20T17:39:55+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/ipsum/</loc>
+    <loc>https://myrandomtestorg.github.io/blog/post/ipsum/</loc>
     <lastmod>2020-07-20T17:40:03+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/dolor/</loc>
+    <loc>https://myrandomtestorg.github.io/blog/post/dolor/</loc>
     <lastmod>2020-01-20T17:40:07+01:00</lastmod>
   </url>
   

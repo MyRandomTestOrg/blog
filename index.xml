@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Le blog du Poi&#39;Vron</title>
-    <link>http://example.org/</link>
+    <link>https://myrandomtestorg.github.io/blog/</link>
     <description>Recent content on Le blog du Poi&#39;Vron</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Wed, 20 Jan 2021 17:39:55 +0100</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://myrandomtestorg.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Encore un article</title>
-      <link>http://example.org/post/lorem/</link>
+      <link>https://myrandomtestorg.github.io/blog/post/lorem/</link>
       <pubDate>Wed, 20 Jan 2021 17:39:55 +0100</pubDate>
       
-      <guid>http://example.org/post/lorem/</guid>
+      <guid>https://myrandomtestorg.github.io/blog/post/lorem/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vehicula dolor eu egestas bibendum. Aliquam imperdiet magna ac ullamcorper suscipit. Nulla nisl erat, ultrices non ornare nec, fermentum a dolor. Donec dolor lectus, congue sed dolor nec, tempor efficitur eros. Quisque eu velit ultricies nulla volutpat efficitur. Sed cursus purus sit amet justo bibendum blandit. Donec ac lectus imperdiet, rutrum urna a, volutpat orci.
 Nam bibendum vehicula leo at posuere. Integer scelerisque facilisis erat at bibendum.</description>
     </item>
     
     <item>
       <title>IUn autre article</title>
-      <link>http://example.org/post/ipsum/</link>
+      <link>https://myrandomtestorg.github.io/blog/post/ipsum/</link>
       <pubDate>Mon, 20 Jul 2020 17:40:03 +0100</pubDate>
       
-      <guid>http://example.org/post/ipsum/</guid>
+      <guid>https://myrandomtestorg.github.io/blog/post/ipsum/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vehicula dolor eu egestas bibendum. Aliquam imperdiet magna ac ullamcorper suscipit. Nulla nisl erat, ultrices non ornare nec, fermentum a dolor. Donec dolor lectus, congue sed dolor nec, tempor efficitur eros. Quisque eu velit ultricies nulla volutpat efficitur. Sed cursus purus sit amet justo bibendum blandit. Donec ac lectus imperdiet, rutrum urna a, volutpat orci.
 Nam bibendum vehicula leo at posuere. Integer scelerisque facilisis erat at bibendum.</description>
     </item>
     
     <item>
       <title>Un article</title>
-      <link>http://example.org/post/dolor/</link>
+      <link>https://myrandomtestorg.github.io/blog/post/dolor/</link>
       <pubDate>Mon, 20 Jan 2020 17:40:07 +0100</pubDate>
       
-      <guid>http://example.org/post/dolor/</guid>
+      <guid>https://myrandomtestorg.github.io/blog/post/dolor/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vehicula dolor eu egestas bibendum. Aliquam imperdiet magna ac ullamcorper suscipit. Nulla nisl erat, ultrices non ornare nec, fermentum a dolor. Donec dolor lectus, congue sed dolor nec, tempor efficitur eros. Quisque eu velit ultricies nulla volutpat efficitur. Sed cursus purus sit amet justo bibendum blandit. Donec ac lectus imperdiet, rutrum urna a, volutpat orci.
 Nam bibendum vehicula leo at posuere. Integer scelerisque facilisis erat at bibendum.</description>
     </item>
